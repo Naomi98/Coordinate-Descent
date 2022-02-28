@@ -1,4 +1,4 @@
 ### All the code Files:
 
 1. Coordinate-Descent-Fixed-Step-Size.ipynb ---> Fixed step-size (large value) for Coordinate Descent
-2. 
+2. Backtracking-line-search.ipynb ---> Adaptive step-size using the backtracking line search approach

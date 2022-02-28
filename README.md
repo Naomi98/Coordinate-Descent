@@ -5,9 +5,9 @@ Coordinate descent algorithms have recently been in use due to its higher effici
 
 # Files
 ## Code
--->
--->
+* Coordinate-Descent-Fixed-Step-Size.ipynb ---> Fixed step-size (large value) for Coordinate Descent
+* Backtracking-line-search.ipynb ---> Adaptive step-size using the backtracking line search approach
 ## Data
--->
+* wine.data ---> Wine data. Also, found in sklearn library
 ## Write-up
--->
+* Coordinate-Descent.pdf ---> Mathematical approach and explanation
